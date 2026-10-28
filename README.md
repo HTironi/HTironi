@@ -30,7 +30,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,python,figma,json" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,python,figma" alt="Tecnologias" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/json/json-original.svg" alt="JSON" title="JSON" width="48" height="48" />
 
 </div>
 
