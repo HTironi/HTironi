@@ -9,7 +9,7 @@
 ## 👋 Sobre mim
 
 - 🎂 Tenho 15 anos
-- 📍 Joinville, Santa Catarina
+- 📍 Joinville, Santa Catarina, Brasil
 - 🎓 Curso Técnico em Informática para Internet no **IFC – Campus Araquari**
 - 🚀 Busco melhorar minhas habilidades como desenvolvedor
 
