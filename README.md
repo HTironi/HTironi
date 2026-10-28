@@ -29,7 +29,7 @@
 ## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,python,figma,json" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,python,figma," alt="Tecnologias" />
 
 </div>
 
