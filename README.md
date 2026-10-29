@@ -9,7 +9,7 @@
 ## 👋 Sobre mim
 
 - 🎂 Tenho 15 anos
-- 📍 Joinville, Santa Catarina
+- 📍 Joinville, Santa Catarina, Brasil
 - 🎓 Curso Técnico em Informática para Internet no **IFC – Campus Araquari**
 - 🚀 Busco melhorar minhas habilidades como desenvolvedor
 
@@ -29,7 +29,7 @@
 ## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,python,figma," alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,python,figma," alt="Tecnologias" />
 
 </div>
 
@@ -45,5 +45,12 @@
 <img alt="Streak" src="https://streak-stats.demolab.com/?user=HTironi&theme=tokyonight&hide_border=true" />
 
 </div>
+<br />
+
+<img
+  alt="Linguagens mais usadas"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTironi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:55960c,100:236ad3&height=100&section=footer" alt="Rodapé" />
