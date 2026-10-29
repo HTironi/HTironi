@@ -1,5 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="120" viewBox="0 0 495 120">
-<rect x="0.5" y="0.5" width="494" height="119" rx="8" fill="#0d1117" stroke="#30363d"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="222" viewBox="0 0 495 222" role="img" aria-label="Linguagens mais usadas no GitHub de HTironi">
+<rect x="0.5" y="0.5" width="494" height="221" rx="8" fill="#0d1117" stroke="#30363d"/>
 <text x="20" y="29" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Linguagens mais usadas</text>
-<text x="20" y="65" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">O card será atualizado pelo GitHub Actions.</text>
+<text x="20" y="62" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#e6edf3">JavaScript</text>
+<text x="475" y="62" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8b949e">88.7%</text>
+<rect x="20" y="69" width="455" height="7" rx="3.5" fill="#21262d"/>
+<rect x="20" y="69" width="403.64" height="7" rx="3.5" fill="#f1e05a"/>
+<text x="20" y="101" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#e6edf3">HTML</text>
+<text x="475" y="101" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8b949e">8.2%</text>
+<rect x="20" y="108" width="455" height="7" rx="3.5" fill="#21262d"/>
+<rect x="20" y="108" width="37.43" height="7" rx="3.5" fill="#3572A5"/>
+<text x="20" y="140" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#e6edf3">CSS</text>
+<text x="475" y="140" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8b949e">2.0%</text>
+<rect x="20" y="147" width="455" height="7" rx="3.5" fill="#21262d"/>
+<rect x="20" y="147" width="8.89" height="7" rx="3.5" fill="#e34c26"/>
+<text x="20" y="179" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#e6edf3">Python</text>
+<text x="475" y="179" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#8b949e">1.1%</text>
+<rect x="20" y="186" width="455" height="7" rx="3.5" fill="#21262d"/>
+<rect x="20" y="186" width="5.04" height="7" rx="3.5" fill="#563d7c"/>
 </svg>
