@@ -1,0 +1,39 @@
+name: Atualizar card de linguagens
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Gerar SVG de linguagens
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: HTironi
+        run: python scripts/generate_top_languages.py
+
+      - name: Salvar SVG no repositório
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/top-langs.svg
+          if git diff --cached --quiet; then
+            echo "O card não mudou; nenhum commit necessário."
+          else
+            git commit -m "Atualiza card de linguagens"
+            git push
+          fi

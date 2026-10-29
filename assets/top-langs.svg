@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="120" viewBox="0 0 495 120">
+<rect x="0.5" y="0.5" width="494" height="119" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="20" y="29" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Linguagens mais usadas</text>
+<text x="20" y="65" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#8b949e">O card será atualizado pelo GitHub Actions.</text>
+</svg>
