@@ -47,10 +47,11 @@
 </div>
 <br />
 
-<img
-  alt="Linguagens mais usadas"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HTironi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-/>
-
+<div align="center">
+  <img
+    src="./assets/top-langs.svg"
+    alt="Linguagens mais usadas"
+  />
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:55960c,100:236ad3&height=100&section=footer" alt="Rodapé" />
