@@ -4,14 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=236AD3&center=true&vCenter=true&width=500&lines=Estudante+de+programa%C3%A7%C3%A3o;T%C3%A9cnico+em+Inform%C3%A1tica+para+Internet;Sempre+aprendendo+algo+novo" alt="Digitando..." />
 
-</div>
-
-## 👋 Sobre mim
-
-- 🎂 Tenho 15 anos
-- 📍 Joinville, Santa Catarina, Brasil
-- 🎓 Curso Técnico em Informática para Internet no **IFC – Campus Araquari**
-- 🚀 Busco melhorar minhas habilidades como desenvolvedor
 
 <div align="center">
 
